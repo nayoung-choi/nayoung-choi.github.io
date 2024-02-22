@@ -14,7 +14,7 @@ subtitle: Ph.D. student in Computer Science<br>@ SCHOOL
 
 left_side:
   background_image: "./assets/images/airplane.jpeg"
-  background_color: "#484848"
+  background_color: "#00BFFF"
   close_button_color: "#000000"
   text_color: "#000000"
 
