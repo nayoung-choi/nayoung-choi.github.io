@@ -23,25 +23,25 @@ footer:
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: About
     link: /
     icon: ""
 
-  - text: Skills & Offers
-    link: /skills-and-offers
+  - text: Publications
+    link: /publications
     icon: ""
 
-  - text: Contact Me
-    link: /contact
-    icon: ""
+  #- text: Contact Me
+  #  link: /contact
+  #  icon: ""
 
-  - text: My Resume
-    link: /resume
-    icon: ""
+  #- text: My Resume
+  #  link: /resume
+  #  icon: ""
 
-  - text: Blog Posts
-    link: /blog
-    icon: ""
+  #- text: Blog Posts
+  #  link: /blog
+  #  icon: ""
 
 # Socialmedia Icons
 social_icons:
