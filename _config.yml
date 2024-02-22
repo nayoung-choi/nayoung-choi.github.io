@@ -14,9 +14,9 @@ subtitle: Ph.D. student in Computer Science<br>@ SCHOOL
 
 left_side:
   background_image: "./assets/images/post.jpg"
-  background_color: "#F00"
-  close_button_color: "#F00"
-  text_color: "#F00"
+  background_color: "#000000"
+  close_button_color: "#000000"
+  text_color: "#000000"
 
 footer:
   copyright_text: "&copy; Nayoung Choi"
