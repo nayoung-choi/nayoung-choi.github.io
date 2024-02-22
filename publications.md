@@ -8,8 +8,7 @@
 - TBU
 
 ### 2023
-- <U>Nayoung Choi.</U> [Breaking Down Word Semantics from Pre-trained Language Models through Layer-
-wise Dimension Selection.](https://arxiv.org/pdf/2310.05115.pdf) *arXiv, Preprint*
+- <U>Nayoung Choi.</U> **[Breaking Down Word Semantics from Pre-trained Language Models through Layer-wise Dimension Selection.](https://arxiv.org/pdf/2310.05115.pdf)** *arXiv, Preprint*
 
 ### 2022
 - I. Paek, <U>N. Choi,</U> S. Ha, Y. Kim and M. Song, **["SQ2SV: Sequential Queries to Sequential Videos retrieval,"](https://ieeexplore.ieee.org/document/10020744)** *2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 3631-3634, doi: 10.1109/BigData55660.2022.10020744.*
