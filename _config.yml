@@ -31,9 +31,9 @@ menu:
     link: /publications
     icon: ""
 
-  #- text: Contact Me
-  #  link: /contact
-  #  icon: ""
+  - text: CV
+    link: "https://nayoung-choi.github.io/"
+    icon: ""
 
   #- text: My Resume
   #  link: /resume
