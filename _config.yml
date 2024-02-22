@@ -47,7 +47,7 @@ menu:
 social_icons:
   - name: google scholar
     link: https://scholar.google.com/citations?user=0JoEIaEAAAAJ
-    icon: fab fa-google-scholar
+    icon: fa-brands fa-google-scholar
 
   - name: github
     link: https://github.com/nayoung-choi
