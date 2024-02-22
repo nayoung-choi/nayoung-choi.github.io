@@ -2,10 +2,10 @@
 ---
 
 # Publications
-You can also check it on [Google Scholar](https://scholar.google.com/citations?user=0JoEIaEAAAAJ).
+<div style="text-align: center"> <a href="https://scholar.google.com/citations?user=0JoEIaEAAAAJ" target="_blank">Google Scholar</a> </div>
 
 ### 2024
-- To be Updated
+- TBU
 
 ### 2023
 - <U>Nayoung Choi.</U> **[Breaking Down Word Semantics from Pre-trained Language Models through Layer-wise Dimension Selection.](https://arxiv.org/pdf/2310.05115.pdf)** *arXiv, Preprint*
