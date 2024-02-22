@@ -2,7 +2,7 @@
 ---
 
 # Publications
-<div style="text-align: right"> [Google Scholar](https://scholar.google.com/citations?user=0JoEIaEAAAAJ) </div>
+[Google Scholar](https://scholar.google.com/citations?user=0JoEIaEAAAAJ)
 
 ### 2024
 - TBU
