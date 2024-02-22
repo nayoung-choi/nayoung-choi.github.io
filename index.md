@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Hello!
+# Nayoung Choi
 
 will be updated
