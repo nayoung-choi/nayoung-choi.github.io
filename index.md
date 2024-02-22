@@ -4,4 +4,4 @@ layout: default
 
 # Nayoung Choi
 
-Hello! I am Nayoung Choi, who began my doctoral degree at {SCHOOL} in fall 2024.
+I am a first-year Ph.D. student at [{SCHOOL DEPT.}](www.) and [{LAB}](www.), advised by [{PROF.}](www.).
