@@ -57,9 +57,9 @@ social_icons:
   #  link: https://www.facebook.com/christian.ezeani.cyb
   #  icon: fab fa-facebook-square
 
-  #- name: twitter
-  #  link: https://www.twitter.com/christianezeani
-  #  icon: fab fa-twitter
+  - name: twitter
+    link: https://twitter.com/nayoung_ch70376
+    icon: fab fa-twitter
 
 
     
