@@ -10,7 +10,7 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 title: Nayoung Choi
-subtitle: Ph.D. student in Computer Sciecne<br>@ SCHOOL
+subtitle: Ph.D. student in Computer Science<br>@ SCHOOL
 
 # left_side:
 #   background_image: "./assets/images/left-background.jpg"
