@@ -16,7 +16,7 @@ left_side:
   background_image: "./assets/images/cats.jpeg"
   background_color: "#484848"
   close_button_color: "#000000"
-  text_color: "#000000"
+  text_color: "#FFFFFF"
 
 footer:
   copyright_text: "&copy; Nayoung Choi"
