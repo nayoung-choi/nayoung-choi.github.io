@@ -47,7 +47,7 @@ menu:
 social_icons:
   - name: google scholar
     link: https://scholar.google.com/citations?user=0JoEIaEAAAAJ
-    icon: fas fa-graduation-cap
+    icon: fas fa-graduation-cap-square
 
   - name: github
     link: https://github.com/nayoung-choi
