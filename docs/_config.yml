@@ -12,7 +12,7 @@ title: Nayoung Choi
 subtitle: Ph.D. student in Computer Science<br>@ {SCHOOL}
 
 left_side:
-  background_image: "./assets/images/cats.jpeg"
+  background_image: "../assets/images/cats.jpeg"
   background_color: "#484848"
   close_button_color: "#000000"
   text_color: "#FFFFFF"
