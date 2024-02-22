@@ -5,7 +5,7 @@
 You can also check it on [Google Scholar](https://scholar.google.com/citations?user=0JoEIaEAAAAJ).
 
 ### 2024
-- TBU
+- To be Updated
 
 ### 2023
 - <U>Nayoung Choi.</U> **[Breaking Down Word Semantics from Pre-trained Language Models through Layer-wise Dimension Selection.](https://arxiv.org/pdf/2310.05115.pdf)** *arXiv, Preprint*
