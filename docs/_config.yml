@@ -8,17 +8,17 @@ defaults:
     values:
       layout: default
 
-title: Nayoung Choi
-subtitle: Ph.D. student in Computer Science<br>@ {SCHOOL}
+title: Christian Ezeani
+subtitle: Full-Stack Developer
 
-left_side:
-  background_image: "../assets/images/cats.jpeg"
-  background_color: "#484848"
-  close_button_color: "#000000"
-  text_color: "#FFFFFF"
+# left_side:
+#   background_image: "./assets/images/left-background.jpg"
+#   background_color: "#F00"
+#   close_button_color: "#F00"
+#   text_color: "#F00"
 
 footer:
-  copyright_text: "&copy; Nayoung Choi"
+  copyright_text: "&copy; Christian Ezeani"
 
 # Side Menu Links
 menu:
@@ -32,18 +32,18 @@ menu:
 
 # Socialmedia Icons
 social_icons:
-  - name: google scholar
-    link: https://scholar.google.com/citations?user=0JoEIaEAAAAJ
-    icon: fas fa-user-graduate
-
-  - name: github
-    link: https://github.com/nayoung-choi
-    icon: fab fa-github-square
-
   - name: linkedin
-    link: https://www.linkedin.com/in/nayoung-%E2%80%8Dchoi-b6b6a9202/
+    link: https://www.linkedin.com/christianezeani
     icon: fab fa-linkedin
 
+  - name: github
+    link: https://github.com/christianezeani
+    icon: fab fa-github-square
+
+  - name: facebook
+    link: https://www.facebook.com/christian.ezeani.cyb
+    icon: fab fa-facebook-square
+
   - name: twitter
-    link: https://twitter.com/nayoung_ch70376
+    link: https://www.twitter.com/christianezeani
     icon: fab fa-twitter
