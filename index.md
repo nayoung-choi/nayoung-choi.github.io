@@ -15,5 +15,22 @@ Hello 🤝, I am a first-year Ph.D. student at [{UNIV. DEPT.}](www.), advised by
 | B.A. | 2013 - 2018 | Library and Information Science, Sungkyunkwan University | Seoul, South Korea | 
 
 ## Work experience
-- AI/ML Engineer, 2022 - 2024
-  - NAVER Corp., Search (Seoul, South Korea)
+
+| Role | Duration | Company | Location |
+| -- | -- | -- | -- | 
+| AI/ML Engineer | 2022 - 2024 | NAVER Corp., Search | Seoul, South Korea | 
+
+<table>
+  <tr>
+    <th>Data 1</th>
+    <th style="background-color: yellow">Data 2</th>
+  </tr>
+  <tr>
+    <td>Calcutta</td>
+    <td style="background-color: yellow">Orange</td>
+  </tr>
+  <tr>
+    <td>Robots</td>
+    <td style="background-color: yellow">Jazz</td>
+  </tr>
+</table>
