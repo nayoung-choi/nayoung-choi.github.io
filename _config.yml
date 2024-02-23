@@ -14,7 +14,7 @@ subtitle: Ph.D. student in Computer Science<br>@ {UNIV.}
 
 left_side:
   background_image: "./assets/images/grim.jpeg"
-  background_color: "#7FFFD4"
+  background_color: "#484848"
   close_button_color: "#000000"
   text_color: "#FFFFFF"
 
