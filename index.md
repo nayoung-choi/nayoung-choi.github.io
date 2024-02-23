@@ -46,7 +46,7 @@ layout: default
 
 | Degree | Duration | Program | Location |
 | -- | -- | -- | -- | 
-| Ph.D. student | 2024 - present | {DEPT}, <br>{UNIV} | {ADDR1}, {ADDR2}, {COUNTRY} |
+| Ph.D. | 2024 - present | {DEPT}, <br>{UNIV} | {ADDR1}, {ADDR2}, {COUNTRY} |
 | M.S. | 2020 - 2022 | Digital Analytics, <br>Yonsei University | Seoul, South Korea | 
 | B.A. | 2013 - 2018 | Library and Information Science, <br>Sungkyunkwan University | Seoul, South Korea | 
 
