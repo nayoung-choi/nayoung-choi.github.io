@@ -8,7 +8,7 @@ layout: default
       border-collapse: collapse;
       text-align: left;
       line-height: 1.5;
-      width: 800px;
+      width: 900px;
   }
   table thead th {
       text-align: left;
@@ -35,7 +35,7 @@ layout: default
 
 # Nayoung Choi
 
-<div style="width: 80%; float: left; margin: 0px auto;"> 
+<div style="width: 90%; float: left; margin: 0px auto;"> 
     Hello 🤝, I am a first-year Ph.D. student at <a href="www." target="_blank">{UNIV. DEPT.}</a>, advised by <a href="www." target="_blank">{PROF.}</a> at <a href="www." target="_blank">{LAB.}</a>. I am currently living in {ADDR1}, {ADDR2}, {COUNTRY}. My research interest broadly lies in <b>Natural Language Processing (NLP)</b> and <b>Information Retrieval (IR)</b>. I want to contribute to making AI technology interpretable, practical, and social-friendly. Before starting my Ph.D., in South Korea, I worked as an AI/ML Engineer at <a href="https://navercorp.com/" target="_blank">NAVER</a> Search. I earned my Master's degree in <a href="https://computing.yonsei.ac.kr/eng/eng2_2_d.php" target="_blank">Digital Analytics</a> from <a href="https://www.yonsei.ac.kr/en_sc/" target="_blank">Yonsei University</a>, where I was advised by Prof. <a href="https://scholar.google.com/citations?user=Wu4DqmEAAAAJ&hl=en" target="_blank">Min Song</a>. My Bachelor's degree is in <a href="https://lis.skku.edu/eng_lis/index.do" target="_blank">Library and Information Science</a> from <a href="https://www.skku.edu/eng/index.do" target="_blank">Sungkyunkwan University</a>.
 </div>
 
@@ -43,7 +43,7 @@ layout: default
     <br><br>
 </div>
 
-### 🎓 Education
+<h3> 🎓 Education </h3>
 
 | Degree | Duration | Program | Location |
 | -- | -- | -- | -- | 
