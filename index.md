@@ -50,7 +50,9 @@ layout: default
 | M.S. | 2020 - 2022 | Digital Analytics, <br>Yonsei University | Seoul, South Korea | 
 | B.A. | 2013 - 2018 | Library and Information Science, <br>Sungkyunkwan University | Seoul, South Korea | 
 
-### 👩🏻‍💻 Work experience
+<div style="width: 100%; float: left; margin: 0px auto;"> 
+    <h3> 👩🏻‍💻 Work experience </h3>
+</div>
 
 | Role | Duration | Company | Location |
 | -- | -- | -- | -- | 
