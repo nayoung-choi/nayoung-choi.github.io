@@ -41,9 +41,8 @@ layout: default
 
 <div style="width: 100%; float: left; margin: 0px auto;"> 
     <br><br>
+    <h3> 🎓 Education </h3>
 </div>
-
-<h3> 🎓 Education </h3>
 
 | Degree | Duration | Program | Location |
 | -- | -- | -- | -- | 
