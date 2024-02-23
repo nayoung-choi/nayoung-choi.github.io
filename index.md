@@ -41,7 +41,7 @@ layout: default
 
 <div style="width: 100%; float: left; margin: 0px auto;"> 
     <br>
-    <h3> 🎓 Education </h3>
+    <h2> 🎓 Education </h2>
 </div>
 
 | Degree | Duration | Program | Location |
@@ -51,7 +51,7 @@ layout: default
 | B.A. | 2013 - 2018 | Library and Information Science, <br>Sungkyunkwan University | Seoul, South Korea | 
 
 <div style="width: 100%; float: left; margin: 0px auto;"> 
-    <h3> 👩🏻‍💻 Work experience </h3>
+    <h2> 👩🏻‍💻 Work experience </h2>
 </div>
 
 | Role | Duration | Company | Location |
