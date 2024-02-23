@@ -8,6 +8,7 @@ layout: default
       border-collapse: collapse;
       text-align: left;
       line-height: 1.5;
+      width: 800px;
   }
   table thead th {
       text-align: center;
@@ -43,8 +44,6 @@ Hello 🤝, I am a first-year Ph.D. student at [{UNIV. DEPT.}](www.), advised by
 | Ph.D. student | 2024 - present | {DEPT}, {UNIV} | {ADDR1}, {ADDR2}, {COUNTRY} |
 | M.S. | 2020 - 2022 | Digital Analytics, Yonsei University | Seoul, South Korea | 
 | B.A. | 2013 - 2018 | Library and Information Science, Sungkyunkwan University | Seoul, South Korea | 
-
-<br>
 
 ### Work experience
 
