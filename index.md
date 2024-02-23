@@ -8,7 +8,7 @@ layout: default
       border-collapse: collapse;
       text-align: left;
       line-height: 1.5;
-      width: 900px;
+      width: 90%;
   }
   table thead th {
       text-align: left;
