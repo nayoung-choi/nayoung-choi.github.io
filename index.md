@@ -40,7 +40,7 @@ layout: default
 </div>
 
 <div style="width: 100%; float: left; margin: 0px auto;"> 
-    <br><br>
+    <br>
     <h3> 🎓 Education </h3>
 </div>
 
