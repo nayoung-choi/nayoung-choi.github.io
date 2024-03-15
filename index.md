@@ -56,4 +56,4 @@ layout: default
 
 | Role | Duration | Company | Location |
 | -- | -- | -- | -- | 
-| AI/ML Engineer | 2022 - 2024 | NAVER Corp., Search | Seoul, South Korea | 
+| AI/ML Engineer | 2022 - 2024 | NAVER Corp., Search | Gyeonggi, South Korea | 
