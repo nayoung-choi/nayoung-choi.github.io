@@ -44,7 +44,7 @@ layout: default
     <h2> 🎓 Education </h2>
 </div>
 
-| Degree | Duration | Program | Location |
+| Degree | Duration | Department, University | Location |
 | -- | -- | -- | -- | 
 | Ph.D. | 2024 - present | Computer Science and Informatics, <br>Emory University | Atlanta, Georgia, USA |
 | M.S. | 2020 - 2022 | Digital Analytics, <br>Yonsei University | Seoul, South Korea | 
