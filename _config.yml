@@ -31,6 +31,10 @@ menu:
     link: /publications
     icon: ""
 
+  - text: News
+    link: /news
+    icon: ""
+
   #- text: Blog
   #  link: /blog
   #  icon: ""
