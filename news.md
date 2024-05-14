@@ -1,20 +1,18 @@
->> <b> sLLM Distillation for Re-ranking <b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[Acticle]</a>
+>> <b>sLLM Distillation for Re-ranking<b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[article]</a>
 ```
-[네이버 어벤저스] 구구절절 말해도 찰떡같은 답변…생성형 AI 만난 초록 창의 비밀
-```
-<br>
-
->> News
-```
-How to Meet User's "Search Intent" : Naver Adaptive Recommendation
-https://deview.kr/2023/sessions/546
+content
 ```
 <br>
 
->> News
+>> <b>How to Meet User's "Search Intent" : Naver Adaptive Recommendation<b> <a href="https://deview.kr/2023/sessions/546" target="_blank">[presentation]</a>
 ```
-2021 NAVER AI RUSH (3rd place) NAVER Corp., South Korea
-- Developed a grammar error correction model by enhancing Transformer-based sequence-to-sequence architecture with
+content
+```
+<br>
+
+>> <b>2021 NAVER AI RUSH (3rd place) NAVER Corp., South Korea<b> <a href="https://github.com/naver-airush/airush2021_source-code/tree/main/2-4/1062" target="_blank">[code]</a> <a href="https://www.youtube.com/watch?v=DmYW-mt6vfY" target="_blank">[video]</a>
+```
+Developed a grammar error correction model by enhancing Transformer-based sequence-to-sequence architecture with
 multi-task learning, incorporating additional CNN layers to predict grammar error types together
 ```
 <br>
