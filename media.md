@@ -1,14 +1,12 @@
->> <b> 📎 sLLM Distillation for Re-ranking (2024)<b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[article]</a>
+>> <b> 📎 Introduced how to train a sLLM ranker through distillation from LLMs at NAVER Search in a media interview (2024.04)<b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[article]</a>
 ```
 content
 ```
 <br>
 
->> <b> 📎 NAVER AI RUSH (2021) <b> <a href="https://www.youtube.com/watch?v=DmYW-mt6vfY" target="_blank">[video]</a>
+>> <b> 📎 Started an internship after placing third in NAVER AI RUSH (2021.08) <b> <a href="https://www.youtube.com/watch?v=DmYW-mt6vfY" target="_blank">[video]</a>
 ```
-NAVER Corp., South Korea
-Developed a grammar error correction model by enhancing Transformer-based sequence-to-sequence architecture with
-multi-task learning, incorporating additional CNN layers to predict grammar error types together
+content
 ```
 <br>
 
