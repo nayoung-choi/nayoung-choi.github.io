@@ -1,4 +1,4 @@
->> <b> 📎 Introduced how to train a sLLM ranker through distillation from LLMs at NAVER Search in a media interview (2024.04)<b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[article]</a>
+>> <b> 📎 Introduced the sLLM distillation method for NAVER Search ranking in a media interview. (2024.04)<b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[article]</a>
 ```
 content
 ```
