@@ -7,4 +7,4 @@ How to Meet User's "Search Intent" : Naver Adaptive Recommendation
 https://deview.kr/2023/sessions/546
 
 >> News
-2019 날씨 빅데이터 콘테스트
+2019 날씨 빅데이터 콘테스트 
