@@ -1,10 +1,10 @@
->> <b>sLLM Distillation for Re-ranking<b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[article]</a>
+<b>sLLM Distillation for Re-ranking<b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[article]</a>
 ```
 content
 ```
 <br>
 
->> <b>How to Meet User's "Search Intent" : Naver Adaptive Recommendation<b> <a href="https://deview.kr/2023/sessions/546" target="_blank">[presentation]</a>
+<b>How to Meet User's "Search Intent" : Naver Adaptive Recommendation<b> <a href="https://deview.kr/2023/sessions/546" target="_blank">[presentation]</a>
 ```
 content
 ```
