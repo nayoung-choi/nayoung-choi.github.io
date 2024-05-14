@@ -1,5 +1,4 @@
->> sLLM Distillation for Re-ranking
-- https://www.ddaily.co.kr/page/view/2024042516090288558
+>> <b> sLLM Distillation for Re-ranking <b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[Acticle]</a>
 ```
 [네이버 어벤저스] 구구절절 말해도 찰떡같은 답변…생성형 AI 만난 초록 창의 비밀
 ```
