@@ -5,7 +5,7 @@
 <div style="text-align: center"> <a href="https://scholar.google.com/citations?user=0JoEIaEAAAAJ&hl=en" target="_blank">Google Scholar</a> </div>
 
 ### [2024]
-- Ohjoon Kwon, Donghyeon Jeon, <U>Nayoung Choi</U>, Gyu-Hwung Cho, Changbong Kim, Hyunwoo Lee, Inho Kang, Sun Kim, Taiwoo Park. **[SLM as Guardian: Pioneering AI Safety with Small Language Models](https://arxiv.org/pdf/2405.19795.pdf)** *arXiv, Preprint*
+- Ohjoon Kwon, Donghyeon Jeon, <U>Nayoung Choi</U>, Gyu-Hwung Cho, Changbong Kim, Hyunwoo Lee, Inho Kang, Sun Kim, Taiwoo Park. **[SLM as Guardian: Pioneering AI Safety with Small Language Models.](https://arxiv.org/pdf/2405.19795.pdf)** *arXiv, Preprint*
 - Hwiyeol Jo, Taiwoo Park, <U>Nayoung Choi</U>, Changbong Kim, Ohjoon Kwon, Donghyeon Jeon, Hyunwoo Lee, Eui-Hyeon Lee, Kyoungho Shin, Sun Suk Lim, Kyungmi Kim, Jihye Lee, Sun Kim. **[Taxonomy and Analysis of Sensitive User Queries in Generative AI Search.](https://arxiv.org/pdf/2404.08672.pdf)** *arXiv, Preprint*
 
 ### [2023]
