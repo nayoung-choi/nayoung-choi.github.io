@@ -4,7 +4,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: default
+      layout: default1¡
 
 paginate: 10
 paginate_path: "/blog/page:num/"
