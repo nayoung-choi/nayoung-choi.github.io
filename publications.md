@@ -6,7 +6,7 @@ layout: default
 <div style="text-align: center"> <a href="https://scholar.google.com/citations?user=0JoEIaEAAAAJ&hl=en" target="_blank">Google Scholar</a> </div>
 
 ### [2024]
-- <U>Nayoung Choi</U>*, Youngjune Lee*, Gyu-Hwung Cho, Haeyu Jeong, Jungmin Kong, Saehun Kim, Keunchan Park, Jaeho Choi, Sarah Cho, Inchang Jeong, Gyohee Nam, Sunghoon Han, Wonil Yang. **[RRADistill: Distilling LLMs' Passage Ranking Ability for Long-Tail Queries Document Re-Ranking on a Search Engine.](https://arxiv.org)** *EMNLP 2024, Industry Track*
+- <U>Nayoung Choi</U>\*, Youngjune Lee\*, Gyu-Hwung Cho, Haeyu Jeong, Jungmin Kong, Saehun Kim, Keunchan Park, Jaeho Choi, Sarah Cho, Inchang Jeong, Gyohee Nam, Sunghoon Han, Wonil Yang. **[RRADistill: Distilling LLMs' Passage Ranking Ability for Long-Tail Queries Document Re-Ranking on a Search Engine.](https://arxiv.org)** *EMNLP 2024, Industry Track*
 
 - Ohjoon Kwon, Donghyeon Jeon, <U>Nayoung Choi</U>, Gyu-Hwung Cho, Changbong Kim, Hyunwoo Lee, Inho Kang, Sun Kim, Taiwoo Park. **[SLM as Guardian: Pioneering AI Safety with Small Language Models.](https://arxiv.org/pdf/2405.19795.pdf)** *EMNLP 2024, Industry Track*
 
