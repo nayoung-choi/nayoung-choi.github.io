@@ -6,9 +6,9 @@ layout: default
 <div style="text-align: center"> <a href="https://scholar.google.com/citations?user=0JoEIaEAAAAJ&hl=en" target="_blank">Google Scholar</a> </div>
 
 ### [2024]
-- <U>Nayoung Choi</U>\*, Youngjune Lee\*, Gyu-Hwung Cho, Haeyu Jeong, Jungmin Kong, Saehun Kim, Keunchan Park, Jaeho Choi, Sarah Cho, Inchang Jeong, Gyohee Nam, Sunghoon Han, Wonil Yang. **[RRADistill: Distilling LLMs' Passage Ranking Ability for Long-Tail Queries Document Re-Ranking on a Search Engine.](https://arxiv.org/pdf/2410.18097)** *EMNLP 2024, Industry Track*
+- <U>Nayoung Choi</U>\*, Youngjune Lee\*, Gyu-Hwung Cho, Haeyu Jeong, Jungmin Kong, Saehun Kim, Keunchan Park, Sarah Cho, Inchang Jeong, Gyohee Nam, Sunghoon Han, Wonil Yang, Jaeho Choi. **[RRADistill: Distilling LLMs’ Passage Ranking Ability for Long-Tail Queries Document Re-Ranking on a Search Engine.](https://aclanthology.org/2024.emnlp-industry.46.pdf)** *In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track, pages 1333–1350, Miami, Florida, US. Association for Computational Linguistics.*
 
-- Ohjoon Kwon, Donghyeon Jeon, <U>Nayoung Choi</U>, Gyu-Hwung Cho, Changbong Kim, Hyunwoo Lee, Inho Kang, Sun Kim, Taiwoo Park. **[SLM as Guardian: Pioneering AI Safety with Small Language Models.](https://arxiv.org/pdf/2405.19795.pdf)** *EMNLP 2024, Industry Track*
+- Ohjoon Kwon, Donghyeon Jeon, <U>Nayoung Choi</U>, Gyu-Hwung Cho, Changbong Kim, Hyunwoo Lee, Inho Kang, Sun Kim, Taiwoo Park. **[SLM as Guardian: Pioneering AI Safety with Small Language Models.](https://aclanthology.org/2024.emnlp-industry.99.pdf)** *In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track, pages 1333–1350, Miami, Florida, US. Association for Computational Linguistics.*
 
 - Hwiyeol Jo, Taiwoo Park, <U>Nayoung Choi</U>, Changbong Kim, Ohjoon Kwon, Donghyeon Jeon, Hyunwoo Lee, Eui-Hyeon Lee, Kyoungho Shin, Sun Suk Lim, Kyungmi Kim, Jihye Lee, Sun Kim. **[Taxonomy and Analysis of Sensitive User Queries in Generative AI Search.](https://arxiv.org/pdf/2404.08672.pdf)** *arXiv, Preprint*
 
