@@ -5,12 +5,13 @@ layout: default
 # Publications
 <div style="text-align: center"> <a href="https://scholar.google.com/citations?user=0JoEIaEAAAAJ&hl=en" target="_blank">Google Scholar</a> </div>
 
+### [2025]
+- Hwiyeol Jo, Taiwoo Park, Hyunwoo Lee, <U>Nayoung Choi</U>, Changbong Kim, Ohjoon kwon, Donghyeon Jeon, Eui Hyeon Lee, Kyoungho Shin, Lim Sun Suk, Kyungmi KIM, LEE JIHYE, Sun Kim **[Taxonomy and Analysis of Sensitive User Queries in Generative AI Search System.](https://arxiv.org/pdf/2404.08672.pdf)** Accepted to NACCL 2025 Findings 
+
 ### [2024]
 - <U>Nayoung Choi</U>\*, Youngjune Lee\*, Gyu-Hwung Cho, Haeyu Jeong, Jungmin Kong, Saehun Kim, Keunchan Park, Sarah Cho, Inchang Jeong, Gyohee Nam, Sunghoon Han, Wonil Yang, Jaeho Choi. **[RRADistill: Distilling LLMs’ Passage Ranking Ability for Long-Tail Queries Document Re-Ranking on a Search Engine.](https://aclanthology.org/2024.emnlp-industry.46.pdf)** *In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track, pages 1333–1350, Miami, Florida, US. Association for Computational Linguistics.*
 
 - Ohjoon Kwon, Donghyeon Jeon, <U>Nayoung Choi</U>, Gyu-Hwung Cho, Changbong Kim, Hyunwoo Lee, Inho Kang, Sun Kim, Taiwoo Park. **[SLM as Guardian: Pioneering AI Safety with Small Language Models.](https://aclanthology.org/2024.emnlp-industry.99.pdf)** *In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track, pages 1333–1350, Miami, Florida, US. Association for Computational Linguistics.*
-
-- Hwiyeol Jo, Taiwoo Park, <U>Nayoung Choi</U>, Changbong Kim, Ohjoon Kwon, Donghyeon Jeon, Hyunwoo Lee, Eui-Hyeon Lee, Kyoungho Shin, Sun Suk Lim, Kyungmi Kim, Jihye Lee, Sun Kim. **[Taxonomy and Analysis of Sensitive User Queries in Generative AI Search.](https://arxiv.org/pdf/2404.08672.pdf)** *arXiv, Preprint*
 
 ### [2023]
 - <U>Nayoung Choi.</U> **[Breaking Down Word Semantics from Pre-trained Language Models through Layer-wise Dimension Selection.](https://arxiv.org/pdf/2310.05115.pdf)** *arXiv, Preprint*
