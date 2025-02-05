@@ -6,7 +6,7 @@ layout: default
 <div style="text-align: center"> <a href="https://scholar.google.com/citations?user=0JoEIaEAAAAJ&hl=en" target="_blank">Google Scholar</a> </div>
 
 ### [2025]
-- Hwiyeol Jo, Taiwoo Park, Hyunwoo Lee, <U>Nayoung Choi</U>, Changbong Kim, Ohjoon kwon, Donghyeon Jeon, Eui Hyeon Lee, Kyoungho Shin, Lim Sun Suk, Kyungmi KIM, LEE JIHYE, Sun Kim **[Taxonomy and Analysis of Sensitive User Queries in Generative AI Search System.](https://arxiv.org/pdf/2404.08672.pdf)** *Accepted to NACCL 2025 Findings.*
+- Hwiyeol Jo, Taiwoo Park, Hyunwoo Lee, <U>Nayoung Choi</U>, Changbong Kim, Ohjoon kwon, Donghyeon Jeon, Eui Hyeon Lee, Kyoungho Shin, Lim Sun Suk, Kyungmi KIM, LEE JIHYE, Sun Kim. **[Taxonomy and Analysis of Sensitive User Queries in Generative AI Search System.](https://arxiv.org/pdf/2404.08672.pdf)** *Accepted to NACCL 2025 Findings.*
 
 ### [2024]
 - <U>Nayoung Choi</U>\*, Youngjune Lee\*, Gyu-Hwung Cho, Haeyu Jeong, Jungmin Kong, Saehun Kim, Keunchan Park, Sarah Cho, Inchang Jeong, Gyohee Nam, Sunghoon Han, Wonil Yang, Jaeho Choi. **[RRADistill: Distilling LLMs’ Passage Ranking Ability for Long-Tail Queries Document Re-Ranking on a Search Engine.](https://aclanthology.org/2024.emnlp-industry.46.pdf)** *In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track, pages 1333–1350, Miami, Florida, US. Association for Computational Linguistics.*
