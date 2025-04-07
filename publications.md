@@ -9,9 +9,9 @@ layout: default
 - Hwiyeol Jo, Taiwoo Park, Hyunwoo Lee, <U>Nayoung Choi</U>, Changbong Kim, Ohjoon kwon, Donghyeon Jeon, Eui Hyeon Lee, Kyoungho Shin, Lim Sun Suk, Kyungmi KIM, LEE JIHYE, Sun Kim. **[Taxonomy and Analysis of Sensitive User Queries in Generative AI Search System.](https://arxiv.org/pdf/2404.08672.pdf)** *Accepted to NAACL 2025 Findings.*
 
 ### [2024]
-- <U>Nayoung Choi</U>\*, Youngjune Lee\*, Gyu-Hwung Cho, Haeyu Jeong, Jungmin Kong, Saehun Kim, Keunchan Park, Sarah Cho, Inchang Jeong, Gyohee Nam, Sunghoon Han, Wonil Yang, Jaeho Choi. **[RRADistill: Distilling LLMs’ Passage Ranking Ability for Long-Tail Queries Document Re-Ranking on a Search Engine.](https://aclanthology.org/2024.emnlp-industry.46.pdf)** *In Proceedings of the 2024 Conference on EMNLP: Industry Track, pages 1333–1350, Miami, Florida, US. Association for Computational Linguistics.*
+- <U>Nayoung Choi</U>\*, Youngjune Lee\*, Gyu-Hwung Cho, Haeyu Jeong, Jungmin Kong, Saehun Kim, Keunchan Park, Sarah Cho, Inchang Jeong, Gyohee Nam, Sunghoon Han, Wonil Yang, Jaeho Choi. **[RRADistill: Distilling LLMs’ Passage Ranking Ability for Long-Tail Queries Document Re-Ranking on a Search Engine.](https://aclanthology.org/2024.emnlp-industry.46.pdf)** *In Proceedings of the 2024 Conference on EMNLP: Industry Track, pages 1333–1350, Miami, Florida, US. ACL.*
 
-- Ohjoon Kwon, Donghyeon Jeon, <U>Nayoung Choi</U>, Gyu-Hwung Cho, Changbong Kim, Hyunwoo Lee, Inho Kang, Sun Kim, Taiwoo Park. **[SLM as Guardian: Pioneering AI Safety with Small Language Models.](https://aclanthology.org/2024.emnlp-industry.99.pdf)** *In Proceedings of the 2024 Conference on EMNLP: Industry Track, pages 1333–1350, Miami, Florida, US. Association for Computational Linguistics.*
+- Ohjoon Kwon, Donghyeon Jeon, <U>Nayoung Choi</U>, Gyu-Hwung Cho, Changbong Kim, Hyunwoo Lee, Inho Kang, Sun Kim, Taiwoo Park. **[SLM as Guardian: Pioneering AI Safety with Small Language Models.](https://aclanthology.org/2024.emnlp-industry.99.pdf)** *In Proceedings of the 2024 Conference on EMNLP: Industry Track, pages 1333–1350, Miami, Florida, US. ACL.*
 
 ### [2023]
 - <U>Nayoung Choi.</U> **[Breaking Down Word Semantics from Pre-trained Language Models through Layer-wise Dimension Selection.](https://arxiv.org/pdf/2310.05115.pdf)** *arXiv, Preprint*
