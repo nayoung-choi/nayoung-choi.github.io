@@ -13,9 +13,6 @@ layout: default
 
 - Ohjoon Kwon, Donghyeon Jeon, <U>Nayoung Choi</U>, Gyu-Hwung Cho, Changbong Kim, Hyunwoo Lee, Inho Kang, Sun Kim, Taiwoo Park. **[SLM as Guardian: Pioneering AI Safety with Small Language Models.](https://aclanthology.org/2024.emnlp-industry.99.pdf)** *In Proceedings of the 2024 Conference on EMNLP: Industry Track, pages 1333–1350, Miami, Florida, US. ACL.*
 
-### [2023]
-- <U>Nayoung Choi.</U> **[Breaking Down Word Semantics from Pre-trained Language Models through Layer-wise Dimension Selection.](https://arxiv.org/pdf/2310.05115.pdf)** *arXiv, Preprint*
-
 ### [2022]
 - I. Paek, <U>N. Choi,</U> S. Ha, Y. Kim and M. Song, **["SQ2SV: Sequential Queries to Sequential Videos retrieval,"](https://ieeexplore.ieee.org/document/10020744)** *2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 3631-3634, doi: 10.1109/BigData55660.2022.10020744.*
 
