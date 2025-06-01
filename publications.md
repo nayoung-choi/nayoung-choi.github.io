@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Publications
+# Selected Publications
 <div style="text-align: center"> <a href="https://scholar.google.com/citations?user=0JoEIaEAAAAJ&hl=en" target="_blank">Google Scholar</a> </div>
 
 ### [2025]
