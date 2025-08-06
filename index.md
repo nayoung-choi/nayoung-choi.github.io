@@ -46,7 +46,7 @@ layout: default
 
 | Degree | Duration | Department, University | Location |
 | -- | -- | -- | -- | 
-| Ph.D. | 2024 - present | Computer Science and Informatics, <br>Emory University | Atlanta, Georgia, USA |
+| Ph.D. | 2024 - Ongoing | Computer Science and Informatics, <br>Emory University | Atlanta, Georgia, USA |
 | M.S. | 2020 - 2022 | Digital Analytics, <br>Yonsei University | Seoul, South Korea | 
 | B.A. | 2013 - 2018 | Library and Information Science, <br>Sungkyunkwan University | Seoul, South Korea | 
 
