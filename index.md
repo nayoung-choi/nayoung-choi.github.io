@@ -46,9 +46,9 @@ layout: default
 
 | Degree | Duration | Department, University | Location |
 | -- | -- | -- | -- | 
-| Ph.D. | 2024 - Ongoing | Computer Science and Informatics, <br>Emory University | Atlanta, Georgia, USA |
-| M.S. | 2020 - 2022 | Digital Analytics, <br>Yonsei University | Seoul, South Korea | 
-| B.A. | 2013 - 2018 | Library and Information Science, <br>Sungkyunkwan University | Seoul, South Korea | 
+| Ph.D. | Fall 2024 - Ongoing | Computer Science and Informatics, <br>Emory University | Atlanta, Georgia, USA |
+| M.S. | Mar 2020 - Feb 2022 | Digital Analytics, <br>Yonsei University | Seoul, South Korea | 
+| B.A. | Mar 2013 - Feb 2018 | Library and Information Science, <br>Sungkyunkwan University | Seoul, South Korea | 
 
 <div style="width: 100%; float: left; margin: 0px auto;"> 
     <h2> 👩🏻‍💻 Work experience </h2>
@@ -56,4 +56,5 @@ layout: default
 
 | Role | Duration | Company | Location |
 | -- | -- | -- | -- | 
-| AI/ML Engineer | 2022 - 2024 | NAVER | Gyeong-gi, South Korea | 
+| AI/ML Engineer | Jan 2022 - Aug 2024 | NAVER | Gyeong-gi, South Korea | 
+| AI Rush Internship | Aug 2021 - Nov 2021 | NAVER | Gyeong-gi, South Korea | 

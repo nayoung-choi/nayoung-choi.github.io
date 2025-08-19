@@ -6,6 +6,8 @@ layout: default
 <div style="text-align: center"> <a href="https://scholar.google.com/citations?user=0JoEIaEAAAAJ&hl=en" target="_blank">Google Scholar</a> </div>
 
 ### [2025]
+- <U>Nayoung Choi</U>, Grace Byun, Andrew Chung, Ellie S. Paek, Shinsun Lee, Jinho D. Choi. **[Reference-Aligned Retrieval-Augmented Question Answering over Heterogeneous Proprietary Documents.](https://arxiv.org/pdf/2502.19596)** *Accepted to CIKM 2025 Applied Research Track*
+
 - Hwiyeol Jo, Taiwoo Park, Hyunwoo Lee, <U>Nayoung Choi</U>, Changbong Kim, Ohjoon kwon, Donghyeon Jeon, Eui Hyeon Lee, Kyoungho Shin, Lim Sun Suk, Kyungmi KIM, LEE JIHYE, Sun Kim. **[Taxonomy and Analysis of Sensitive User Queries in Generative AI Search System.](https://aclanthology.org/2025.findings-naacl.195.pdf)** *In Findings of the Association for Computational Linguistics: NAACL 2025, pages 3514–3529, Albuquerque, New Mexico. ACL.*
 
 ### [2024]
