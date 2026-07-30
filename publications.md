@@ -5,6 +5,11 @@ layout: default
 # Selected Publications
 <div style="text-align: center"> <a href="https://scholar.google.com/citations?user=0JoEIaEAAAAJ&hl=en" target="_blank">Google Scholar</a> </div>
 
+### [2026]
+- <U>Nayoung Choi</U>, Jiseung Hong, Peace Cyebukayire, Ikseon Choi, Jinho D. Choi. 2026. **[Tinker Tales: A Tangible Dialogue System for Child–AI Co-Creative Storytelling](https://aclanthology.org/2026.sigdial-1.3.pdf)**. *In Proceedings of the 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 25–50, Atlanta, Georgia, USA. ACL.*
+
+- Andrew G. Breithaupt\*, <U>Nayoung Choi</U>\*, James D. Finch, Jeanne M. Powell, Arin L. Nelson, Oz A. Alon, Howard J. Rosen, and Jinho D. Choi. 2026. **[Towards Conversational Patient History-Taking: Voice-Interactive AI Agents for Pre-visit Dementia Diagnostic Interview](https://aclanthology.org/2026.sigdial-1.5.pdf)**. *In Proceedings of the 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 62–78, Atlanta, Georgia, USA. ACL.*
+
 ### [2025]
 - <U>Nayoung Choi</U>, Grace Byun, Andrew Chung, Ellie S. Paek, Shinsun Lee, and Jinho D. Choi. 2025. **[Reference-Aligned Retrieval-Augmented Question Answering over Heterogeneous Proprietary Documents](https://doi.org/10.1145/3746252.3761566)**. *In Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25). Association for Computing Machinery, New York, NY, USA, 5626–5633.*
 
