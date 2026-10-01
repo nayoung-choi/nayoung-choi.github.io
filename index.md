@@ -35,7 +35,7 @@ layout: default
 # Nayoung Choi
 
 <div style="width: 90%; float: left; margin: 0px auto;"> 
-Hello 🤝, I am a computer science PhD candidate at Emory University advised by Jinho D. Choi at <a href="https://www.emorynlp.org/" target="_blank">Emory NLP Research Lab</a>. My research focuses on Search, Personalization, and Conversational Systems. I have industry experience as an AI/ML engineer at <a href="https://www.navercorp.com/en/main" target="_blank">NAVER</a> Search and as an Applied Scientist Intern at <a href="https://about.roblox.com/" target="_blank">Roblox</a>, working on search and discovery. I hold a B.A. in Information Science from <a href="https://www.skku.edu/eng/index.do" target="_blank">Sungkyunkwan University</a> (SKKU) and an M.S. in Data Science from <a href="https://www.yonsei.ac.kr/en_sc/index.do" target="_blank">Yonsei University</a>.
+Hello 🤝, I am a computer science PhD candidate at Emory University advised by Jinho D. Choi at <a href="https://www.emorynlp.org/" target="_blank">Emory NLP Research Lab</a>. My research focuses on Information Retrieval, Natural Language Processing, and Conversational AI. I have industry experience as an AI/ML engineer at <a href="https://www.navercorp.com/en/main" target="_blank">NAVER</a> Search and as an Applied Scientist Intern at <a href="https://about.roblox.com/" target="_blank">Roblox</a>, working on search and discovery. I hold a B.A. in Information Science from <a href="https://www.skku.edu/eng/index.do" target="_blank">Sungkyunkwan University</a> (SKKU) and an M.S. in Data Science from <a href="https://www.yonsei.ac.kr/en_sc/index.do" target="_blank">Yonsei University</a>.
 </div>
 
 
