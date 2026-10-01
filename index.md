@@ -47,7 +47,7 @@ Hello 🤝, I am a computer science PhD candidate at Emory University advised by
 
 | Degree | Duration | Department, University | Location |
 | -- | -- | -- | -- | 
-| Ph.D. | Fall 2024 - Ongoing | Computer Science and Informatics, <br>Emory University | Atlanta, Georgia, USA |
+| Ph.D. | Fall 2024 - Ongoing | Computer Science and Informatics, <br>Emory University | Atlanta, GA, USA |
 | M.S. | Mar 2020 - Feb 2022 | Digital Analytics, <br>Yonsei University | Seoul, South Korea | 
 | B.A. | Mar 2013 - Feb 2018 | Library and Information Science, <br>Sungkyunkwan University | Seoul, South Korea | 
 
