@@ -55,7 +55,7 @@ Hello 🤝, I am a computer science PhD candidate at Emory University advised by
 
 | Role | Duration | Company | Location |
 | -- | -- | -- | -- | 
-| Applied Scientist Intern (part-time) | Sep 2026 - Dec 2026 | Roblox | Remote, USA | 
+| Applied Scientist Intern<br>(part-time) | Sep 2026 - Dec 2026 | Roblox | Remote, USA | 
 | Applied Scientist Intern | May 2026 - Sep 2026 | Roblox | San Mateo, CA, USA | 
 | AI/ML Engineer | Jan 2022 - Aug 2024 | NAVER | Gyeong-gi, South Korea | 
 | AI Rush Intern | Aug 2021 - Nov 2021 | NAVER | Gyeong-gi, South Korea |
