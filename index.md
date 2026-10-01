@@ -3,7 +3,6 @@ layout: default
 ---
 
 <style>
-  /* 2way헤더와 라인포인트*/
   table {
       border-collapse: collapse;
       text-align: left;
@@ -56,5 +55,7 @@ layout: default
 
 | Role | Duration | Company | Location |
 | -- | -- | -- | -- | 
+| Applied Scientist Intern (part-time) | Sep 2026 - Dec 2026 | Roblox | Remote, USA | 
+| Applied Scientist Intern | May 2026 - Sep 2026 | Roblox | San Mateo, CA, USA | 
 | AI/ML Engineer | Jan 2022 - Aug 2024 | NAVER | Gyeong-gi, South Korea | 
-| AI Rush Internship | Aug 2021 - Nov 2021 | NAVER | Gyeong-gi, South Korea | 
+| AI Rush Intern | Aug 2021 - Nov 2021 | NAVER | Gyeong-gi, South Korea |
