@@ -2,10 +2,14 @@
 layout: default
 ---
 
-📎 Received the Innovation of the Year award for Tinker Tales at Emory's 20th Annual Celebration of Technology and Innovation. (2026.04) <b> <a href="https://news.emory.edu/stories/2026/04/emory-innovations-and-researchers-honored-annual-ceremony" target="_blank">[article]</a> </b>
+🏆 Received the Outstanding Application Award at SIGDIAL 2026 conference for Tinker Tales (May 2026).
 
-📎 Conducted a media interview to introduce the sLLM distillation method for NAVER Search ranking. (2024.04) <b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[article]</a> </b>
+🏆 Received the Excellence in Research Assistance Award from Emory Computer Science (May 2026).
 
-📎 Joined NAVER following a 3rd place win in NAVER AI RUSH. (2022.01) <b> <a href="https://www.youtube.com/watch?v=DmYW-mt6vfY" target="_blank">[video]</a> </b>
+🏆 Received the Innovation of the Year Award for Tinker Tales at Emory's 20th Annual Celebration of Technology and Innovation (Apr 2026). <b> <a href="https://news.emory.edu/stories/2026/04/emory-innovations-and-researchers-honored-annual-ceremony" target="_blank">[article]</a> </b>
 
-📎 Won 2nd place at the Big Contest hosted by the Ministry of Science and ICT in South Korea. (2020.12) <b> <a href="https://youtu.be/32Y5Vtngc-Y?t=8457" target="_blank">[video]</a> </b>
+📢 Gave a media interview on sLLM distillation for NAVER Search ranking (Apr 2024). <b> <a href="https://www.ddaily.co.kr/page/view/2024042516090288558" target="_blank">[article]</a> </b>
+
+🏆 Placed 3rd in NAVER AI RUSH and joined NAVER (Jan 2022). <b> <a href="https://www.youtube.com/watch?v=DmYW-mt6vfY" target="_blank">[video]</a> </b>
+
+🏆 Won 2nd place at the Big Contest hosted by South Korea's Ministry of Science and ICT (Dec 2020). <b> <a href="https://youtu.be/32Y5Vtngc-Y?t=8457" target="_blank">[video]</a> </b>
