@@ -2,7 +2,7 @@
 layout: default
 ---
 
-🏆 Received the Outstanding Application Award at [SIGDIAL 2026](https://2026.sigdial.org/) for Tinker Tales (May 2026). <b> <a href="https://aclanthology.org/2026.sigdial-1.3.pdf" target="_blank">[paper]</a> </b>
+🏆 Received the Outstanding Application Award at [SIGDIAL 2026](https://2026.sigdial.org/) for Tinker Tales (Aug 2026). <b> <a href="https://aclanthology.org/2026.sigdial-1.3.pdf" target="_blank">[paper]</a> </b>
 
 🏆 Received the Excellence in Research Assistance Award from Emory Computer Science (May 2026).
 
