@@ -35,7 +35,7 @@ layout: default
 # Nayoung Choi
 
 <div style="width: 90%; float: left; margin: 0px auto;"> 
-    Hello 🤝, I am a Ph.D. candidate at <a href="https://computerscience.emory.edu/index.html" target="_blank">Emory CS</a>, advised by <a href="https://www.emorynlp.org/faculty/jinho-choi" target="_blank">Jinho Choi</a> at <a href="https://www.emorynlp.org/" target="_blank">Emory NLP</a> (Atlanta, Georgia, USA). I have an academic background in Information Science (B.A.), Data Science (M.S.), and Computer Science (Ph.D. in progress), along with industry experience as an AI/ML engineer at <a href="https://navercorp.com/" target="_blank">NAVER</a>, one of South Korea’s largest tech companies, where I worked in the Search & Recommendation team. My specialties lie in Natural Language Processing, Information Retrieval, and Conversational AI.
+Hello 🤝, I am a PhD candidate at <a href="https://computerscience.emory.edu/index.html" target="_blank">Emory CS</a>, advised by <a href="https://www.emorynlp.org/faculty/jinho-choi" target="_blank">Jinho Choi</a> at <a href="https://www.emorynlp.org/" target="_blank">Emory NLP</a>. My research focuses on Search, Recommendation, and Conversational systems. I have industry experience as an AI/ML engineer at <a href="https://navercorp.com/" target="_blank">NAVER</a> Search and as an Applied Scientist Intern at Roblox, working on search and discovery. I hold a B.A. in Information Science and an M.S. in Data Science.
 </div>
 
 <div style="width: 100%; float: left; margin: 0px auto;"> 
